@@ -18,7 +18,7 @@
 - 开发工具: cursor、Git、Chrome DevTools
 - 构建工具: Vite、npm、pnpm、Webpack、Turbopack
 - 测试工具: vitest、ESLint、Prettier、Husky
-- 部署运维: Docker、CI/CD(GitHub Actions)、Vercel
+- 部署运维: Docker
 - AI编程: Cursor、ClaudeCode、Codex、McpServer、AgentSkills
 
 ---
