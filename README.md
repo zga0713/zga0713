@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Euphoria</h1>
 
-<!--
-**zga0713/zga0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">GISer(at present)</h3>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 技术专长
+
+核心技术栈
+
+- 前端开发: HTML5/CSS3、JavaScript(ES6+)、Vue3、nextjs、TypeScript 、 Vite 、 OpenLayers 、Cesium、Leaflet
+- 服务端: GeoServer 、PostGIS 
+
+工具与平台
+
+- 开发工具: cursor、Git、Chrome DevTools
+- 构建工具: Vite、npm、pnpm、Webpack、Turbopack
+- 测试工具: vitest、ESLint、Prettier、Husky
+- 部署运维: Docker、CI/CD(GitHub Actions)、Vercel
+- AI编程: Cursor、ClaudeCode、Codex、McpServer、AgentSkills
+
+---
+
+📞 联系方式
+
+- 邮箱: 17516788087@163.com
+- GitHub: [github.com/zga0713](https://github.com/zga0713)
+- 博客文章: CSDN blog.csdn.net/euphoria7777
+
+---
